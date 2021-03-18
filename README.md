@@ -15,7 +15,7 @@ Hello! Prior to the class, please download and install Arduino and purchase this
 
 ## Sylabus
 
-#### [Class Slides](https://docs.google.com/presentation/d/1xI0J7Ww7i5pHp98tcDeUGzzlm55U6QPbEXQUL3sb3-s/edit?usp=sharing)
+#### [Class Slides](https://docs.google.com/presentation/d/1oYDNfyueyY_7GhzywNy-7n48ZLF08Wpiql3Mo9sXlGw/edit?usp=sharing)
 
 #### Introduction to Arduino
 Overview of Arduions, Prototyping Inventions <br/>
