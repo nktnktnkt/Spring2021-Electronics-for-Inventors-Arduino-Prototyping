@@ -1,16 +1,16 @@
 # Electronics-for-Inventors-Arduino-Prototyping (Winter 2021)
 
-### 4 weeks - Tuesdays and Thursdays Jan 12 - Feb 4th
+### 4 weeks - Tuesdays and Thursdays April 6 - 29th
 
 ## Requirements
 Hello! Prior to the class, please download and install Arduino and purchase this Arduino Kit
-- Arduino kit from [Amazon $30 (including shipping with coupon applied)](https://www.amazon.com/REXQualis-Development-Membrane-Receiver-Detailed/dp/B074WMHLQ4/ref=sr_1_12_sspa?dchild=1&keywords=arduino+uno+kit&qid=1607745892&sr=8-12-spons&psc=1&smid=AX8SR0V05IQ2E&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUExSVVFV0VGSVFXQkpTJmVuY3J5cHRlZElkPUEwNDAzNjk1MjJSMlhOWDlWUzhCWCZlbmNyeXB0ZWRBZElkPUEwOTM0MzM5MVQ5RVpVR1pBMlNGTiZ3aWRnZXROYW1lPXNwX210ZiZhY3Rpb249Y2xpY2tSZWRpcmVjdCZkb05vdExvZ0NsaWNrPXRydWU=)
+- Arduino kit from [Amazon $37](https://www.amazon.com/ELEGOO-Project-Tutorial-Controller-Projects/dp/B01D8KOZF4/ref=sr_1_3?dchild=1&keywords=arduino+uno+kit&qid=1616106541&sr=8-3)
 - Download and install the [Arduino Software](https://www.arduino.cc/en/Main/Software)
 
-#### This is a [cool kit](https://www.amazon.com/REXQualis-Development-Membrane-Receiver-Detailed/dp/B074WMHLQ4/ref=sr_1_12_sspa?dchild=1&keywords=arduino+uno+kit&qid=1607745892&sr=8-12-spons&psc=1&smid=AX8SR0V05IQ2E&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUExSVVFV0VGSVFXQkpTJmVuY3J5cHRlZElkPUEwNDAzNjk1MjJSMlhOWDlWUzhCWCZlbmNyeXB0ZWRBZElkPUEwOTM0MzM5MVQ5RVpVR1pBMlNGTiZ3aWRnZXROYW1lPXNwX210ZiZhY3Rpb249Y2xpY2tSZWRpcmVjdCZkb05vdExvZ0NsaWNrPXRydWU=) we found to use for the class.
-![foo](https://github.com/nktnktnkt/Winter2020-Electronics-for-Inventors-Arduino-Prototyping/blob/main/pics/arduino_kit.JPG)
+#### This is a [cool kit](https://www.amazon.com/ELEGOO-Project-Tutorial-Controller-Projects/dp/B01D8KOZF4/ref=sr_1_3?dchild=1&keywords=arduino+uno+kit&qid=1616106541&sr=8-3) we found to use for the class.
+![foo](https://github.com/nktnktnkt/Spring2021-Electronics-for-Inventors-Arduino-Prototyping/blob/main/pics/arduino_kit.JPG)
 #### This is the current version of Arduino from the [website](https://www.arduino.cc/en/Main/Software)
-![foo](https://github.com/nktnktnkt/Winter2020-Electronics-for-Inventors-Arduino-Prototyping/blob/main/pics/arduino_download2.JPG)
+![foo](https://github.com/nktnktnkt/Spring2021-Electronics-for-Inventors-Arduino-Prototyping/blob/main/pics/arduino_download2.JPG)
 
 
 ## Sylabus
