@@ -10,7 +10,7 @@ Hello! Prior to the class, please download and install the Arduino software and 
 - Download and install the [Arduino Software](https://www.arduino.cc/en/Main/Software)
 ![foo](https://github.com/nktnktnkt/Spring2021-Electronics-for-Inventors-Arduino-Prototyping/blob/main/pics/arduino_kit.JPG)
 #### This is the current version of Arduino from the [website](https://www.arduino.cc/en/Main/Software).
-![foo](https://github.com/nktnktnkt/Spring2021-Electronics-for-Inventors-Arduino-Prototyping/blob/main/pics/arduino_download2.JPG)
+[![foo](https://github.com/nktnktnkt/Spring2021-Electronics-for-Inventors-Arduino-Prototyping/blob/main/pics/arduino_download2.JPG)](https://www.arduino.cc/en/software)
 
 
 ## Sylabus
