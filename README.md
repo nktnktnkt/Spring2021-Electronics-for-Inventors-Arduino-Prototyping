@@ -9,7 +9,7 @@ Hello! Prior to the class, please download and install the Arduino software and 
 - Tier 3: [RexQualis Super Starter Kit $29 (with $5 coupon applied)](https://www.amazon.com/REXQualis-Development-Membrane-Receiver-Detailed/dp/B074WMHLQ4/ref=sr_1_8?dchild=1&keywords=arduino+uno+kit&qid=1616111395&sr=8-8)
 - Download and install the [Arduino Software](https://www.arduino.cc/en/Main/Software)
 ![foo](https://github.com/nktnktnkt/Spring2021-Electronics-for-Inventors-Arduino-Prototyping/blob/main/pics/arduino_kit.JPG)
-#### This is the current version of Arduino from the [website](https://www.arduino.cc/en/Main/Software)
+#### This is the current version of Arduino from the [website](https://www.arduino.cc/en/Main/Software).
 ![foo](https://github.com/nktnktnkt/Spring2021-Electronics-for-Inventors-Arduino-Prototyping/blob/main/pics/arduino_download2.JPG)
 
 
@@ -31,21 +31,21 @@ Multiple LED Blinking/patterns/sequence<br/>
 - Continuing to modify example code
 
 
-#### Week 2 - 1st Class
+#### Week 2 - 3rd Class
 Introduction to potentiometer
 - Install pot into breadboard
 - Read serial output
 Trigger LED based on pot
 - calibrate/optimize LED output based on POT position
 
-#### Week 2 - 2nd Class
+#### Week 2 - 4th Class
 Introduction to light sensor
 - Install light sensor into breadboard
 - Read serial of light sensor output
 Trigger LED based on light sensor output
 - Calibration of light sensor
 
-#### Week 3 - 1st Class
+#### Week 3 - 5th Class
 Ultrasonic Range Finder
 - Get file from github and load onto arduino
 - Install range finder onto breadboard
@@ -53,13 +53,13 @@ Ultrasonic Range Finder
 Install mini speaker
 - Adjust frequency output
 
-#### Week 3 - 2nd Class
+#### Week 3 - 6th Class
 Reading the remote control
 - Get file from github
 - Add LEDs to turn ON/off based on remote control
 - Add piezo speaker outputs based on remote control
 
-#### Week 4 - 1st Class
+#### Week 4 - 7th Class
 Introduction to motors
 - Servo
   - Example sketch from github
@@ -68,6 +68,6 @@ Introduction to motors
 - Stepper motor
 
 
-#### Week 4 - 2nd Class
+#### Week 4 - 8th Class
 Using the Keypad to enter a passcode 
  - Get file from github
