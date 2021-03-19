@@ -8,7 +8,6 @@ Hello! Prior to the class, please download and install the Arduino software and 
 - Tier 2: [ELEGOO Super Starter Kit $37](https://www.amazon.com/dp/B01CZTLHGE/ref=emc_b_5_t) + [4x4 keypad $3.50](https://www.ebay.com/itm/4x4-Matrix-16-Key-Membrane-Switch-Keypad-Keyboard-for-Arduino-AVR-PIC-ARM/233918101228?hash=item36769af6ec:g:IfsAAOSwV4FgP--5)
 - Tier 3: [RexQualis Super Starter Kit $29 (with $5 coupon applied)](https://www.amazon.com/REXQualis-Development-Membrane-Receiver-Detailed/dp/B074WMHLQ4/ref=sr_1_8?dchild=1&keywords=arduino+uno+kit&qid=1616111395&sr=8-8)
 - Download and install the [Arduino Software](https://www.arduino.cc/en/Main/Software)
-<br/>
 ![foo](https://github.com/nktnktnkt/Spring2021-Electronics-for-Inventors-Arduino-Prototyping/blob/main/pics/arduino_kit.JPG)
 #### This is the current version of Arduino from the [website](https://www.arduino.cc/en/Main/Software)
 ![foo](https://github.com/nktnktnkt/Spring2021-Electronics-for-Inventors-Arduino-Prototyping/blob/main/pics/arduino_download2.JPG)
