@@ -5,7 +5,7 @@
 ## Requirements
 Hello! Prior to the class, please download and install the Arduino software and purchase ONE of these Arduino Kits:
 - Tier 1: [ELEGOO Complete Kit $54](https://www.amazon.com/dp/B01CZTLHGE/ref=emc_b_5_t)
-- Tier 2: [ELEGOO Super Starter Kit $37](https://www.amazon.com/dp/B01CZTLHGE/ref=emc_b_5_t) + [4x4 keypad $3.50](https://www.ebay.com/itm/4x4-Matrix-16-Key-Membrane-Switch-Keypad-Keyboard-for-Arduino-AVR-PIC-ARM/233918101228?hash=item36769af6ec:g:IfsAAOSwV4FgP--5)
+- Tier 2: [ELEGOO Super Starter Kit $37](https://www.amazon.com/ELEGOO-Project-Tutorial-Controller-Projects/dp/B01D8KOZF4/ref=pd_di_sccai_2?pd_rd_w=3llIM&pf_rd_p=c9443270-b914-4430-a90b-72e3e7e784e0&pf_rd_r=52BETM29SAEH2759KVWN&pd_rd_r=0ea9fbe6-1aac-4cdf-b910-86a4e686617d&pd_rd_wg=rJ5XS&pd_rd_i=B01D8KOZF4&psc=1) + [4x4 keypad $3.50](https://www.ebay.com/itm/4x4-Matrix-16-Key-Membrane-Switch-Keypad-Keyboard-for-Arduino-AVR-PIC-ARM/233918101228?hash=item36769af6ec:g:IfsAAOSwV4FgP--5)
 - Tier 3: [REXQualis Super Starter Kit $29 (with $5 coupon applied)](https://www.amazon.com/REXQualis-Development-Membrane-Receiver-Detailed/dp/B074WMHLQ4/ref=sr_1_8?dchild=1&keywords=arduino+uno+kit&qid=1616111395&sr=8-8)
 - Download and install the [Arduino Software](https://www.arduino.cc/en/Main/Software)
 ![foo](https://github.com/nktnktnkt/Spring2021-Electronics-for-Inventors-Arduino-Prototyping/blob/main/pics/arduino_kit.JPG)
