@@ -17,8 +17,8 @@ Hello! Prior to the class, please download and install the Arduino software and 
 
 #### [Class Slides](https://docs.google.com/presentation/d/1oYDNfyueyY_7GhzywNy-7n48ZLF08Wpiql3Mo9sXlGw/edit?usp=sharing)
 
-#### Introduction to Arduino
-Overview of Arduions, Prototyping Inventions <br/>
+#### Week 1 - First Class
+Overview of Arduino software, hardware and mocrocontrollers <br/>
 Get blink working on internal LED <br/>
 - Blink at different rates
 
@@ -27,7 +27,7 @@ Get blink working on internal LED <br/>
 Breadboard, blink LED on pin 13<br/>
 PWM LED on pin xxx 3,5,6,9,10,11<br/>
 - Modify example code<br/>
-Multiple LED Blinking/patterns/sequence<br/>
+Multiple LED blinking/patterns/sequence<br/>
 - Continuing to modify example code
 
 
