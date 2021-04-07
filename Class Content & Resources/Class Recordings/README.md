@@ -1,6 +1,7 @@
 
 RECORDINGS:</br></br>
 Class 1: April 6 </br>
+https://portlandcc.zoom.us/rec/share/FGrnAWqa6Ss7S5Xx4u8kkVpTNj0xVE8bcWc_FqAxTOCtk_LVesgyS6UA8OaG0kY.Z9gMxoofLlQXm_QT
 </br></br>
 Class 2: April 8 </br>
 </br></br>
