@@ -7,6 +7,7 @@ Class 2: April 8 </br>
 https://portlandcc.zoom.us/rec/share/6qbDUhrs8a_aWkvQQ3x_yjbw3PRVV5xOs114SBOmvGMLASKkpBSRLUf32bosdU9K.ijM1QaZ4d02KedfM
 </br></br>
 Class 3: April 13 </br>
+https://portlandcc.zoom.us/rec/share/QaxEEtLvhrHtYIFsC1kTcjCqKqUaGrfcWCnzxnmwoI_SQCSjoffxlGjDogszlT_M.fzhe24UspUT6VJa4
 </br></br>
 Class 4: April 15 </br>
 </br></br>
