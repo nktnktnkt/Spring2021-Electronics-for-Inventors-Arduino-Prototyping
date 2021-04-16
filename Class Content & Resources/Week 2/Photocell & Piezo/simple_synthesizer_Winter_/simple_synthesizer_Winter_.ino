@@ -1,8 +1,8 @@
 int lightSensor = A0;
 int tuner = A2;
 int noteControl = A1;
-int lightLow = 120; //set the lowest value the light sensor (photocell) outputs
-int lightHigh = 500; // set the highest value the light sensor outputs.
+int lightLow = 45; //set the lowest value the light sensor (photocell) outputs
+int lightHigh = 1000; // set the highest value the light sensor outputs.
 int button = 2;
 int buzzer = 11;
 
@@ -22,11 +22,11 @@ void loop() {
 
   //read the light sensor value to control the harmonic tuning of the audio waveform relative to the master tuning, creating simple melodies.
   int lightValue = analogRead(lightSensor);
-  Serial.println(lightValue); //use this reading to determine lightHigh and lightLow values
+  //Serial.println(lightValue); //use this reading to determine lightHigh and lightLow values
   int melody = map(lightValue, lightLow , lightHigh, 1, 10);
   melody = constrain(melody, 1, 10);
 
-  //read the noteControl pot to modify the PWM state of the audio signal, creating a FM (frequency modulation) effect on the sound.
+  //read the noteControl pot to adjust the note length.
   int noteValue = analogRead(noteControl);
   unsigned long noteLength = map(noteValue, 0 , 1023, 100, 1000);
 
@@ -40,5 +40,6 @@ void loop() {
     tone(buzzer, frequency / melody, noteLength);
     
   }
+  Serial.println(noteValue);
 
 }
