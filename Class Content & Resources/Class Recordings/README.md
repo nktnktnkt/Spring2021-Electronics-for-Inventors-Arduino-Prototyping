@@ -19,5 +19,6 @@ Class 6: April 22 </br>
 https://portlandcc.zoom.us/rec/share/6S1t2CVU1CH8QZeFuiQXu7AZHs6SArZMvefVWF_0lNUTvN0J-zb3lv86mwawQFMj.QpJOW36-O-Yaea6B
 </br></br>
 Class 7: April 27 </br>
+https://portlandcc.zoom.us/rec/share/_WsGe40f3kc-7sIpvzuMrgye3yhTXPRZq5ARjR3zEOmZhieLeCzg9R37GeM2C9FM.RGRuScWSlRvqAZBI
 </br></br>
 Class 8: April 29 </br>
